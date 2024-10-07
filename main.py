@@ -3,16 +3,16 @@ import json
 import telebot
 
 ##TOKEN DETAILS
-TOKEN = "TRON"
+TOKEN = "TON"
 
-BOT_TOKEN = "7428132333:AAFk5TgqXHu5tU0BSr4s_hPaa2OgKGzpOic"
-PAYMENT_CHANNEL = "@trxhhffdp" #add payment channel here including the '@' sign
-OWNER_ID = 6896571965 #write owner's user id here.. get it from @The_Easy_moneymakerBot by /id
-CHANNELS = ["@trxhhffdp"] #add channels to be checked here in the format - ["Channel 1", "Channel 2"] 
+BOT_TOKEN = "8054366461:AAGoQ2bOE2PmDtnLLtK804ho3Yrs6tblZwU"
+PAYMENT_CHANNEL = "@TonSquirrelPayment" #add payment channel here including the '@' sign
+OWNER_ID = 6896571965 #write owner's user id here.. get it from @TonSquirrelBot by /id
+CHANNELS = ["@FreeOnline_Earning10"] #add channels to be checked here in the format - ["@FreeOnline_Earning10", "@FreeOnline_Earning10"] 
               #you can add as many channels here and also add the '@' sign before channel username
-Daily_bonus = 1 #Put daily bonus amount here!
-Mini_Withdraw = 0.5  #remove 0 and add the minimum withdraw u want to set
-Per_Refer = 0.0001 #add per refer bonus here
+Daily_bonus = 0.0001 #Put daily bonus amount here!
+Mini_Withdraw = 1  #remove 0 and add the minimum withdraw u want to set
+Per_Refer = 0.05 #add per refer bonus here
 
 bot = telebot.TeleBot(BOT_TOKEN)
 
