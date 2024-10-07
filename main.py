@@ -8,7 +8,7 @@ TOKEN = "TON"
 BOT_TOKEN = "7411517568:AAHURrKhnG-jnx-zHfhSEqpN1-0jjERzMoA"
 PAYMENT_CHANNEL = "@TonSquirrelPayment" #add payment channel here including the '@' sign
 OWNER_ID = 6896571965 #write owner's user id here.. get it from @TonSquirrelBot by /id
-CHANNELS = ["@FreeOnline_Earning10"] #add channels to be checked here in the format - ["@FreeOnline_Earning10", "@FreeOnline_Earning10"] 
+CHANNELS = ["@FreeOnline_Earning10"] #add channels to be checked here in the format - ["@fxlycash"], "@FreeOnline_Earning10"] 
               #you can add as many channels here and also add the '@' sign before channel username
 Daily_bonus = 0.0001 #Put daily bonus amount here!
 Mini_Withdraw = 1  #remove 0 and add the minimum withdraw u want to set
