@@ -5,7 +5,7 @@ import telebot
 ##TOKEN DETAILS
 TOKEN = "TON"
 
-BOT_TOKEN = "8054366461:AAGoQ2bOE2PmDtnLLtK804ho3Yrs6tblZwU"
+BOT_TOKEN = "7411517568:AAHURrKhnG-jnx-zHfhSEqpN1-0jjERzMoA"
 PAYMENT_CHANNEL = "@TonSquirrelPayment" #add payment channel here including the '@' sign
 OWNER_ID = 6896571965 #write owner's user id here.. get it from @TonSquirrelBot by /id
 CHANNELS = ["@FreeOnline_Earning10"] #add channels to be checked here in the format - ["@FreeOnline_Earning10", "@FreeOnline_Earning10"] 
